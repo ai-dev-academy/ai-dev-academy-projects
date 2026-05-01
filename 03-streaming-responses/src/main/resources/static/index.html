@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Streaming Demo</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; }
+    #output { border: 1px solid #ddd; border-radius: 8px; padding: 16px; min-height: 100px;
+              white-space: pre-wrap; background: #f9f9f9; margin-top: 12px; }
+    input  { width: 75%; padding: 8px 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 15px; }
+    button { padding: 8px 16px; background: #0E9E8A; color: white; border: none;
+             border-radius: 6px; cursor: pointer; font-size: 15px; }
+    .dot   { display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+             background: #0E9E8A; animation: blink 1s infinite; }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+  </style>
+</head>
+<body>
+  <h2>🤖 AI Streaming Demo — Topic 03</h2>
+  <div>
+    <input id="msg" type="text" placeholder="Ask anything..." value="Explain Spring WebFlux in 3 sentences" />
+    <button onclick="startStream()">Send</button>
+  </div>
+  <div id="output">Response will appear here...</div>
+
+  <script>
+    let es;
+    function startStream() {
+      const msg = document.getElementById('msg').value.trim();
+      if (!msg) return;
+      const out = document.getElementById('output');
+      out.innerHTML = '<span class="dot"></span>';
+      if (es) es.close();
+
+      es = new EventSource('/ai/stream?message=' + encodeURIComponent(msg));
+      let first = true;
+      es.onmessage = e => {
+        if (first) { out.textContent = ''; first = false; }
+        out.textContent += e.data;
+      };
+      es.onerror = () => {
+        es.close();
+        if (first) out.textContent = 'Connection error. Is the server running?';
+      };
+    }
+  </script>
+</body>
+</html>
