@@ -1,7 +1,7 @@
 # Topic 09 — RAG Pipeline
 
 > **AI Dev Academy** · 🔒 Pro · Intermediate · 60 min
-> Full interactive tutorial: [aidevacademy.dev/topics/rag-pipeline](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/rag-pipeline](https://ai-dev-academy.com)
 
 ---
 
@@ -71,4 +71,4 @@ curl -X POST http://localhost:8080/rag/ask \
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
