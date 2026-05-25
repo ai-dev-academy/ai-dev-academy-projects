@@ -1,7 +1,7 @@
 # Topic 17 — Resilience Patterns
 
 > **AI Dev Academy** · 🔒 Advanced · Advanced · 45 min
-> Full interactive tutorial: [aidevacademy.dev/topics/resilience-patterns](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/resilience-patterns](https://ai-dev-academy.com)
 
 ---
 
@@ -65,4 +65,4 @@ curl http://localhost:8080/ai/cache-stats
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
