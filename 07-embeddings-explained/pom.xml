@@ -9,7 +9,7 @@
         <version>3.2.5</version>
         <relativePath/>
     </parent>
-    <groupId>com.aidevacademy</groupId>
+    <groupId>com.ai-dev-academy</groupId>
     <artifactId>07-embeddings-explained</artifactId>
     <version>1.0.0</version>
     <description>AI Dev Academy Topic 07: Embeddings Explained</description>
