@@ -1,7 +1,7 @@
 # Topic 10 — Advanced RAG Patterns
 
 > **AI Dev Academy** · 🔒 Pro · Advanced · 55 min
-> Full interactive tutorial: [aidevacademy.dev/topics/advanced-rag](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/advanced-rag](https://ai-dev-academy.com)
 
 ---
 
@@ -65,4 +65,4 @@ curl "http://localhost:8080/rag/hyde-search?q=how+does+memory+work+in+chatbots"
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
