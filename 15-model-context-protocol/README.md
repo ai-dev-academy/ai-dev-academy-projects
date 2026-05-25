@@ -1,7 +1,7 @@
 # Topic 15 — Model Context Protocol
 
 > **AI Dev Academy** · 🔒 Advanced · Advanced · 55 min
-> Full interactive tutorial: [aidevacademy.dev/topics/model-context-protocol](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/model-context-protocol](https://ai-dev-academy.com)
 
 ---
 
@@ -64,4 +64,4 @@ curl http://localhost:8080/mcp/low-stock?threshold=20
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
