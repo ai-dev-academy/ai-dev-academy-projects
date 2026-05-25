@@ -9,7 +9,7 @@
         <version>3.2.5</version>
         <relativePath/>
     </parent>
-    <groupId>com.aidevacademy</groupId>
+    <groupId>com.ai-dev-academy</groupId>
     <artifactId>18-cost-token-control</artifactId>
     <version>1.0.0</version>
     <description>AI Dev Academy Topic 18: Cost and Token Control</description>
