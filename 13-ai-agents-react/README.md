@@ -1,7 +1,7 @@
 # Topic 13 — AI Agents (ReAct)
 
 > **AI Dev Academy** · 🔒 Advanced · Advanced · 60 min
-> Full interactive tutorial: [aidevacademy.dev/topics/ai-agents-react](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/ai-agents-react](https://ai-dev-academy.com)
 
 ---
 
@@ -62,4 +62,4 @@ curl -X POST http://localhost:8080/agent/research \
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
