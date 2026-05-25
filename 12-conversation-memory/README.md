@@ -1,7 +1,7 @@
 # Topic 12 — Conversation Memory
 
 > **AI Dev Academy** · 🔒 Pro · Intermediate · 35 min
-> Full interactive tutorial: [aidevacademy.dev/topics/conversation-memory](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/conversation-memory](https://ai-dev-academy.com)
 
 ---
 
@@ -67,4 +67,4 @@ curl -X POST "http://localhost:8080/tutor/ask?studentId=alice" \
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
