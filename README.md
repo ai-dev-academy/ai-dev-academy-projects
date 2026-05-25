@@ -130,4 +130,4 @@ docker ps
 ## License
 
 MIT — free to use for learning and personal projects.
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2026 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
