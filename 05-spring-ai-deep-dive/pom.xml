@@ -9,7 +9,7 @@
         <version>3.2.5</version>
         <relativePath/>
     </parent>
-    <groupId>com.aidevacademy</groupId>
+    <groupId>com.ai-dev-academy</groupId>
     <artifactId>05-spring-ai-deep-dive</artifactId>
     <version>1.0.0</version>
     <description>AI Dev Academy Topic 05: Spring AI Deep Dive</description>
