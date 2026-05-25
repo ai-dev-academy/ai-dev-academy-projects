@@ -1,7 +1,7 @@
 # Topic 02 — Prompt Engineering
 
 > **AI Dev Academy** · 🟢 Free · Beginner · 30 min
-> Full interactive tutorial: [aidevacademy.dev/topics/prompt-engineering](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/prompt-engineering](https://ai-dev-academy.com)
 
 ---
 
@@ -62,4 +62,4 @@ curl -X POST http://localhost:8080/ai/classify \
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
