@@ -1,7 +1,7 @@
 # Topic 08 — Vector Databases
 
 > **AI Dev Academy** · 🔒 Pro · Intermediate · 40 min
-> Full interactive tutorial: [aidevacademy.dev/topics/vector-databases](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/vector-databases](https://ai-dev-academy.com)
 
 ---
 
@@ -70,4 +70,4 @@ curl "http://localhost:8080/ai/search?q=Java+AI+framework"
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
