@@ -1,7 +1,7 @@
 # Topic 03 — Streaming Responses
 
 > **AI Dev Academy** · 🟢 Free · Beginner · 25 min
-> Full interactive tutorial: [aidevacademy.dev/topics/streaming-responses](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/streaming-responses](https://ai-dev-academy.com)
 
 ---
 
@@ -64,4 +64,4 @@ data:  programming
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
