@@ -1,7 +1,7 @@
 # Topic 07 — Embeddings Explained
 
 > **AI Dev Academy** · 🔒 Pro · Intermediate · 35 min
-> Full interactive tutorial: [aidevacademy.dev/topics/embeddings-explained](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/embeddings-explained](https://ai-dev-academy.com)
 
 ---
 
@@ -60,4 +60,4 @@ curl "http://localhost:8080/ai/search?q=shoes+for+running&topK=3"
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
