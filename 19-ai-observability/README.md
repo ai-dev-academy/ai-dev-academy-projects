@@ -1,7 +1,7 @@
 # Topic 19 — AI Observability
 
 > **AI Dev Academy** · 🔒 Advanced · Advanced · 50 min
-> Full interactive tutorial: [aidevacademy.dev/topics/ai-observability](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/ai-observability](https://ai-dev-academy.com)
 
 ---
 
@@ -66,4 +66,4 @@ curl http://localhost:8080/actuator/prometheus | grep ai_
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
