@@ -1,7 +1,7 @@
 # Topic 06 — LangChain4j AiServices
 
 > **AI Dev Academy** · 🔒 Pro · Intermediate · 40 min
-> Full interactive tutorial: [aidevacademy.dev/topics/langchain4j-aiservices](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/langchain4j-aiservices](https://ai-dev-academy.com)
 
 ---
 
@@ -62,4 +62,4 @@ curl -X POST "http://localhost:8080/support/chat?userId=alice" \
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
