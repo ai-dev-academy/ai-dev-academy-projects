@@ -9,7 +9,7 @@
         <version>3.2.5</version>
         <relativePath/>
     </parent>
-    <groupId>com.aidevacademy</groupId>
+    <groupId>com.ai-dev-academy</groupId>
     <artifactId>06-langchain4j-aiservices</artifactId>
     <version>1.0.0</version>
     <description>AI Dev Academy Topic 06: LangChain4j AiServices</description>
