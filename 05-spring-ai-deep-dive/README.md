@@ -1,7 +1,7 @@
 # Topic 05 — Spring AI Deep Dive
 
 > **AI Dev Academy** · 🟢 Free · Intermediate · 45 min
-> Full interactive tutorial: [aidevacademy.dev/topics/spring-ai-deep-dive](https://aidevacademy.dev)
+> Full interactive tutorial: [ai-dev-academy.com/topics/spring-ai-deep-dive](https://ai-dev-academy.com)
 
 ---
 
@@ -62,4 +62,4 @@ curl -X POST http://localhost:8080/ai/chat-with-logging \
 | Java version error | Install Java 17+: `java -version` |
 
 ---
-© 2025 Monika Digital LLC · [aidevacademy.dev](https://aidevacademy.dev)
+© 2025 Monika Digital LLC · [ai-dev-academy.com](https://ai-dev-academy.com)
